@@ -1,0 +1,22 @@
+baseURL = "http://hryniew.cz/"
+title = "Hryniew.cz"
+
+[author]
+name = "Kamil Hryniewicz"
+headline = "Machine Learning Engineer & Architect"
+image = "logo.jpg"
+[[author.links]]
+email = "mailto:kamil@hryniew.cz"
+github = "https://github.com/khryniewicz"
+keybase = "https://keybase.io/kamilhryniewicz"
+linkedin = "https://www.linkedin.com/in/kamilhryniewicz"
+medium = "https://medium.com/@khryniewicz"
+twitter = "https://twitter.com/KamilHryniewicz"
+
+[[module.imports]]
+path = "github.com/jpanther/congo/v2"
+
+[params]
+colorScheme = "slate"
+[params.homepage]
+layout = "profile"
