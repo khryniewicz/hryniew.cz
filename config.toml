@@ -3,7 +3,7 @@ title = "Hryniew.cz"
 
 [author]
 name = "Kamil Hryniewicz"
-headline = "Machine Learning Engineer & Architect"
+headline = "Machine Learning Engineer"
 image = "logo.png"
 [[author.links]]
 email = "mailto:kamil@hryniew.cz"
