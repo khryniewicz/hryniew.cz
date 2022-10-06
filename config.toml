@@ -18,5 +18,7 @@ path = "github.com/jpanther/congo/v2"
 
 [params]
 colorScheme = "slate"
+[params.footer]
+showAppearanceSwitcher = true
 [params.homepage]
 layout = "profile"
