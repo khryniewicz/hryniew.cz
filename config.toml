@@ -1,11 +1,11 @@
 baseURL = "http://hryniew.cz/"
 title = "Hryniew.cz"
 
-[author]
+[params.author]
 name = "Kamil Hryniewicz"
 headline = "CTO @ Sameday.AI"
 image = "logo.png"
-[[author.links]]
+[[params.author.links]]
 email = "mailto:kamil@hryniew.cz"
 github = "https://github.com/khryniewicz"
 keybase = "https://keybase.io/kamilhryniewicz"
