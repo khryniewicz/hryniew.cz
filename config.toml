@@ -2,10 +2,8 @@ baseURL = "http://hryniew.cz/"
 defaultContentLanguage = "en"
 title = "Hryniew.cz"
 
-languageCode = "en"
-languageName = "English"
-languageDirection = "ltr"
-weight = 1
+[[imports]]
+path = "github.com/jpanther/congo/v2"
 
 [params]
 colorScheme = "slate"
@@ -28,7 +26,3 @@ showAppearanceSwitcher = true
 
 [params.homepage]
 layout = "profile"
-
-
-[[module.imports]]
-path = "github.com/jpanther/congo/v2"
